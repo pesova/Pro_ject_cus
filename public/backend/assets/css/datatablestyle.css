@@ -1,0 +1,28 @@
+div.dataTables_filter input {
+    border-radius: 5px;
+    border: 1px solid #CCC;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    color: #000 !important;
+    border: 1px solid #CCC !important;
+    background-color: #FFF !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFF), color-stop(100%, #FFF))!important;
+    background: -webkit-linear-gradient(top, #FFF 0%, #FFF 100%)!important;
+    background: -moz-linear-gradient(top, #FFF 0%, #FFF 100%)!important;
+    background: -ms-linear-gradient(top, #FFF 0%, #FFF 100%)!important;
+    background: -o-linear-gradient(top, #FFF 0%, #FFF 100%)!important;
+    background: linear-gradient(to bottom, #FFF 0%, #FFF 100%)!important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    color: #FFF !important;
+    border: none !important;
+    background-color: #536BF8 !important;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFF), color-stop(100%, #536BF8))!important;
+    background: -webkit-linear-gradient(top, #536BF8 0%, #536BF8 100%)!important;
+    background: -moz-linear-gradient(top, #536BF8 0%, #536BF8 100%)!important;
+    background: -ms-linear-gradient(top, #536BF8 0%, #536BF8 100%)!important;
+    background: -o-linear-gradient(top, #536BF8 0%, #536BF8 100%)!important;
+    background: linear-gradient(to bottom, #536BF8 0%, #536BF8 100%)!important;
+}

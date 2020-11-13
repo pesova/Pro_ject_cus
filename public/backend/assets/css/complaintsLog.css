@@ -1,0 +1,26 @@
+.container{
+    margin: 3% auto;
+}
+
+.message{
+    width: 40%;
+}
+
+
+@media screen and (max-width: 768px) {
+    .container{
+        margin: 3% 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .message {
+        width: 50%;
+    }
+
+    .table{
+        width: 1000px;
+    }
+    .table td{
+        vertical-align: middle;
+    }
+}
